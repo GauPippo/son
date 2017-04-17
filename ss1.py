@@ -49,3 +49,6 @@ for i in range(size):
     lt(120);pencolor("green")
     circle(120,360)
     circle(150)
+
+
+print("Toi da sua fucking file nay")
