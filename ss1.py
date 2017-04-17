@@ -51,4 +51,4 @@ for i in range(size):
     circle(150)
 
 
-print("Toi da sua fucking file nay")
+
